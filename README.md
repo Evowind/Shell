@@ -1,6 +1,6 @@
 # Shell en C - Gestionnaire de Commandes
 
-Ce projet consiste à développer un shell en langage C avec plusieurs fonctionnalités progressivement intégrées. Vous pouvez travailler en groupe de 1 ou 2 personnes. Les différentes étapes comprennent la création d'un shell traitant des commandes sans arguments, l'ajout de la gestion des arguments, la redirection de la sortie standard, la gestion des tubes (pipes), et la gestion des signaux.
+Ce projet consiste à développer un shell en langage C avec plusieurs fonctionnalités progressivement intégrées. Les différentes étapes comprennent la création d'un shell traitant des commandes sans arguments, l'ajout de la gestion des arguments, la redirection de la sortie standard, la gestion des tubes (pipes), et la gestion des signaux.
 
 ## Exercice 1 - Version Dépouillée
 
